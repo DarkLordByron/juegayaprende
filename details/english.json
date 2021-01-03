@@ -1,0 +1,2059 @@
+{
+    "tasksData": [
+        {
+            "name": "Animals",
+            "localizedName": "Animals",
+            "gameType": 2,
+            "useMixedTypes": true,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "giraffe",
+                    "imageText": "",
+                    "imageDescription": "The highest land animal on the planet.",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "lion",
+                    "imageText": "",
+                    "imageDescription": "Animals king",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "hippo",
+                    "imageText": "",
+                    "imageDescription": "The most aggressive animal in Africa.",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "panda",
+                    "imageText": "",
+                    "imageDescription": "99% of its diet consists of bamboo",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "sloth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "dog",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "eagle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "mouse",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "bear",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "hare",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "bee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "whale",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "bison",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 35
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "donkey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "owl",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "camel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 35
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "hen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "kangaroo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "zebra",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "pig",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "monkey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "deer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "swan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "elephant",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "cow",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "koala",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "seal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "fox",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "cat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "hummingbird",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "peacock",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "parrot",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "horse",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "sheep",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "pinguin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "dolphin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "tiger",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "butterfly",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "buffalo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "turtle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "bull",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Actors&Actresses",
+            "localizedName": "Actors/Actresses",
+            "gameType": 1,
+            "useMixedTypes": true,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "AL PACINO",
+                    "imageText": "WON THE OSCAR IN SCENT OF A WOMAN",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 35
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "CHAPLIN",
+                    "imageText": "",
+                    "imageDescription": "FILMED 81 MOVIES BETWEEN 1914 - 1967",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 35
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "DEL TORO",
+                    "imageText": "",
+                    "imageDescription": "WON THE OSCAR IN 2000 FOR TRAFFIC",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "MURPHY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Vicky Cristina Barcelona",
+                    "imageText": "FOR WHICH FILM WON THE OSCAR",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "Todo sobre mi madre",
+                        "Vanilla Sky",
+                        "Captain Corelli's Mandolin"
+                    ],
+                    "gameType": 5,
+                    "cost": 35
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "PAUL BETTANY",
+                    "imageText": "JENNIFER CONNELLY IS MARRIED TO",
+                    "imageDescription": "THEY GOT MARRIED IN 2003",
+                    "wrongAnswers": [
+                        "BRADLEY COOPER",
+                        "JUSTIN LONG",
+                        "ERIC BANA"
+                    ],
+                    "gameType": 5,
+                    "cost": 35
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "JODIE FOSTER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "KATE WINSLET",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "morgan freeman",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 35
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "71",
+                    "imageText": "HOW OLD IS MERYL STREEP",
+                    "imageDescription": "SHE WAS BORNED IN JUNE 22ND 1949",
+                    "wrongAnswers": [
+                        "65",
+                        "78",
+                        "58"
+                    ],
+                    "gameType": 5,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "ROBERT REDFORD",
+                    "imageText": "HAS WON 2 ACADEMY AWARDS",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 35
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "SEAN CONNERY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "TOM HANKS",
+                    "imageText": "",
+                    "imageDescription": "HE HAS WON BEST ACTOR OSCAR TWICE",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "BATMAN RETURNS",
+                    "imageText": "WHICH SUPERHEROE MOVIE WAS SHE IN",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "BATMAN",
+                        "SUPERMAN",
+                        "GREEN LANTERN"
+                    ],
+                    "gameType": 5,
+                    "cost": 30
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "HOPKINS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 35
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "BLANCHETT",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "HOFFMAN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "DOWNEY JR",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "ROBERTS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "NICHOLSON",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "JOVOVICH",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "BRANDO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 35
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "CROWE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 30
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "DE NIRO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "JOLIE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "CANTINFLAS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "BASINGER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "DI CAPRIO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "GARY OLDMAN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 30
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "DOUGLAS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Singers",
+            "localizedName": "Singers",
+            "gameType": 1,
+            "useMixedTypes": true,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "COBAIN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "JUANES",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "WINEHOUSE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "MARLEY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 45
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "REIK",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "ESTEFAN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "WONDER",
+                    "imageText": "STEVIE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "BOWIE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 45
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "PAVAROTTI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "JLO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "SHAKIRA",
+                        "SELENA",
+                        "RUBIO"
+                    ],
+                    "gameType": 5,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "PRESLEY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "ARJONA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "SAM SMITH",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "LUIS MIGUEL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "RICKY MARTIN",
+                        "CRISTIAN CASTRO",
+                        "EMMANUEL"
+                    ],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "BRYAN ADAMS",
+                    "imageText": "HEAVEN",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "JUAN GABRIEL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "BEATLES",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "EMINEM",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "BOCELLI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "HOUSTON",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "FERNANDEZ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "JOSE JOSE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "EROS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 45
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "BONO",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "THALIA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "GUNS ROSES",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 45
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "BISBAL",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "JAGGER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "IGLESIAS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 45
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "ISABEL",
+                    "imageText": "2ND NAME",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "MANUELA",
+                        "ROSA",
+                        "HELENA"
+                    ],
+                    "gameType": 5,
+                    "cost": 30
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "AGUILERA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "RICKY MARTIN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "ELTON JOHN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "QUEEN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "GUERRA",
+                    "imageText": "JUAN LUIS",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 30
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "CERATI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 45
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "JACKSON",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "PAUSINI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 35
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "MARC ANTHONY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 30
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "MONTANER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Curiosities",
+            "localizedName": "Curiosities",
+            "gameType": 4,
+            "useMixedTypes": true,
+            "orderNumber": 4,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "TAIL",
+                    "imageText": "WHERE DO THE BEAVERS STORE FAT?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "HEAD",
+                        "BACK",
+                        "FEET"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "MERCURY",
+                    "imageText": "WHAT IS THE CLOSEST PLANET TO THE SUN?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "PLUTO",
+                        "MARS",
+                        "VENUS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "GAETALE",
+                    "imageText": "MOST SALTY WATER BODY IN EARTH",
+                    "imageDescription": "IT IS 12 TIMES AS SALTY AS OCEAN WATER",
+                    "wrongAnswers": [
+                        "DON JUAN POND",
+                        "DEAD SEA",
+                        "GREAT SALT LAKE"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "TONGUE",
+                    "imageText": "LIKE THE FINGERPRINTS IT IS ALSO UNIQUE IN EVERY PERSON",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "FOOT",
+                        "BACK",
+                        "NOSE"
+                    ],
+                    "gameType": 2,
+                    "cost": 45
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "THE TOLL OF THE SEA",
+                    "imageText": "FIRST HOLLYWOOD MADE COLOR FILM",
+                    "imageDescription": "SHOT IN 1922 IN TECHNICOLOR BY METRO PICTURES",
+                    "wrongAnswers": [
+                        "THE THREE MUSKETEERS",
+                        "TREASURE ISLAND",
+                        "THE TEN COMMANDMENTS"
+                    ],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "300000 KM/S",
+                    "imageText": "APPROXIMATE SPEED OF THE LIGHT",
+                    "imageDescription": "EXACT SPEED IS 299792 KM/S IN THE VACUUM",
+                    "wrongAnswers": [
+                        "250000 KM/S",
+                        "1000000 KM/S",
+                        "600000 KM/S"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "1386 ",
+                    "imageText": "HOW MUCH WATER IS ON EARTH? (IN MILLIONS OF CUBIC KM)",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "2011",
+                        "1835",
+                        "1542"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "650",
+                    "imageText": "HOW MANY MUSCLES DOES THE HUMAN BODY HAVE?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "350",
+                        "280",
+                        "415"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "8848 MTS",
+                    "imageText": "THE EVEREST IS ______ TALL.",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "4784 MTS",
+                        "8126 MTS",
+                        "7708 MTS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "32",
+                    "imageText": "HOW MANY TEETH DOES AN ADULT HAVE?",
+                    "imageDescription": "DURING CHILDHOOD THERE ARE ONLY 20 TEETH",
+                    "wrongAnswers": [
+                        "20",
+                        "28",
+                        "36"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "20 TO 120 MINUTES",
+                    "imageText": "THIS ANIMAL ONLY SLEEPS ______ A DAY!",
+                    "imageDescription": "IN AVERAGE, IT ONLY SLEEPS 30 MINUTES",
+                    "wrongAnswers": [
+                        "8 HOURS",
+                        "4 HOURS",
+                        "240 TO 300 MINUTES"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "26",
+                    "imageText": "HOW MANY BONES ARE THERE IN A FOOT?",
+                    "imageDescription": "AMONG THE 206 BONES, ONE FOOT HAS 26 BONES",
+                    "wrongAnswers": [
+                        "14",
+                        "6",
+                        "48"
+                    ],
+                    "gameType": 0,
+                    "cost": 40
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "AMAZON",
+                    "imageText": "THIS FOREST PRODUCES 20% OF THE TOTAL OXYGEN OF THE EARTH",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "TAIGA",
+                        "CONGO",
+                        "MONTEVERDE"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "4.2 LIGHT YEARS",
+                    "imageText": "DISTANCE TO THE CLOSEST STAR TO THE SUN",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "3.0 LIGHT YEARS",
+                        "2.8 LIGHT YEARS",
+                        "5.1 LIGHT YEARS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "4",
+                    "imageText": "HOW MANY WOMEN HAVE WON THE PHYSICS NOBEL PRIZE?",
+                    "imageDescription": "MARIE CURIE (1903), MARIA GOEPPERT-MAYER (1963), DONNA STRICKLAND (2018), ANDREA GHEZ (2020)",
+                    "wrongAnswers": [
+                        "6",
+                        "8",
+                        "2"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "12742 KM",
+                    "imageText": "DIAMETER OF THE EARTH",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "6820 KM",
+                        "25147 KM",
+                        "14398 KM"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "22",
+                    "imageText": "THIS ANIMAL PREGNANCY LAST ____ MONTHS",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "18",
+                        "9",
+                        "15"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "25 TO 40",
+                    "imageText": "HOW MANY DAYS CAN A HUMAN SURVIVE WITHOUT FOOD?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "5 TO 7",
+                        "70 TO 90",
+                        "10 TO 15"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "MOUNT OLYMPUS",
+                    "imageText": "HIGHEST MOUNTAIN IN OUR SOLAR SYSTEM",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "MOUNT EVEREST",
+                        "K2 MOUNTAIN",
+                        "MAUNA KEA"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "HYPERION",
+                    "imageText": "THIS SEQUOYA TREE IS THE TALLEST IN THE WORLD",
+                    "imageDescription": "IT IS 115.55 MTS TALL",
+                    "wrongAnswers": [
+                        "MENARA",
+                        "CENTURION",
+                        "DOERNER FIR"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "BLUE WHALE",
+                    "imageText": "THIS ANIMAL PRODUCES THE LOUDEST SOUND",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "LION",
+                        "COQUI FROG",
+                        "HOWLER MONKEY"
+                    ],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "MARIANA TRENCH",
+                    "imageText": "DEEPEST PLACE ON EARTH",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "KRUBERA CAVE",
+                        "MPONENG GOLD MINE",
+                        "LAKE BAIKAL"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "FEMUR",
+                    "imageText": "LONGEST BONE OF THE HUMAN BODY",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "ALFA CENTAURI",
+                    "imageText": "CLOSEST STAR TO OUR SUN",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "WOLF 359",
+                        "SIRIO",
+                        "BARNARD"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "57",
+                    "imageText": "HOW MANY WOMEN HAS WON NOBEL PRIZES",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "17",
+                        "48",
+                        "64"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "VENUS",
+                    "imageText": "HOTTEST PLANET OF THE SOLAR SYSTEM",
+                    "imageDescription": "464°C ON AVERAGE",
+                    "wrongAnswers": [
+                        "MERCURY",
+                        "PLUTO",
+                        "MARS"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "8,31 MINUTES",
+                    "imageText": "HOW LONG DOES IT TAKE FOR THE SUNLIGHT TO REACH EARTH?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "30 SECONDS",
+                        "1,2 HOURS",
+                        "2,5 MINUTES"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "206",
+                    "imageText": "HOW MANY BONES ARE THERE IN THE HUMAN BODY",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "298",
+                        "310",
+                        "188"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "MAX 5 DAYS",
+                    "imageText": "HOW MANY DAYS CAN A HUMAN SURVIVE WITHOUT WATER?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "MAX 10 DAYS",
+                        "MAX 1 DAY",
+                        "10 TO 15 DAYS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "12",
+                    "imageText": "THE CAT HAS ___ WHISKERS PER SIDE",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "gameType": 5,
+                    "cost": 40
+                }
+            ]
+        },
+        {
+            "name": "HistoricalFigures",
+            "localizedName": "Historical Figures",
+            "gameType": 4,
+            "useMixedTypes": true,
+            "orderNumber": 5,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "LINCOLN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "EINSTEIN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "HITLER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "BEETHOVEN",
+                    "imageText": "HIS MOST FAMOUS WORK IS THE 5TH SYMPHONY",
+                    "imageDescription": "It was released on December 22, 1808",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "BILL GATES",
+                    "imageText": "",
+                    "imageDescription": "HE IS ONE OF THE MOST RICHEST PEOPLE IN THE WORLD",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "DARWIN",
+                    "imageText": "",
+                    "imageDescription": "HE PUBLISHED ORIGEN OF SPECIES IN NOVEMBER 1859",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "CHE GUEVARA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "COPERNICUS",
+                    "imageText": "ESTABLISHED THAT THE SUN WAS THE CENTER OF OUR SYSTEM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "COLUMBUS",
+                    "imageText": "HE DISCOVERED A NEW CONTINENT IN 1492",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "DIANA OF WALES",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "WASHINGTON",
+                    "imageText": "",
+                    "imageDescription": "FIRST PRESIDENT OF THE UNITED STATES",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "HENRY FORD",
+                    "imageText": "MOUNTED THE FIRST CAR ASSEMBLY LINE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "WRIGHT",
+                    "imageText": "THESE BROTHERS MADE THE FIRST AIRPLANE",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "CLAYTON",
+                        "HUGHES",
+                        "CAMERON"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "HOMER",
+                    "imageText": "WROTE THIS FAMOUS EPIC POEM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "NEWTON",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "GUTENBERG",
+                    "imageText": "CREATED THE FIRST PRINT",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "OLIVETTI",
+                        "SMITH",
+                        "REED"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "KENNEDY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "JULIUS",
+                    "imageText": "FIRST CAESAR TO APPEAR IN A COIN",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "AUGUSTUS",
+                        "TIBERIUS",
+                        "CLAUDIUS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "KARL MARX",
+                    "imageText": "FATHER OF THE COMUNISM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "DA VINCI",
+                    "imageText": "GENIOUS OF THE RENAISSANCE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "PASTEUR",
+                    "imageText": "THANKS TO HIM IS SAFER TO CONSUME MOST FOOD TODAY",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "TERESA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "GANDHI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "MARIE CURIE",
+                    "imageText": "FIRST PERSON TO BEING AWARDED 2 NOBEL PRIZES",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "MARILYN MONROE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "PEACE",
+                    "imageText": "WHICH NOBEL PRIZE DID HE WON?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "LITERATURE",
+                        "CHEMISTRY",
+                        "ECONOMICS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "MICHELANGELO",
+                    "imageText": "WHO PAINTED THE SISTINE CHAPEL CEILING?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "LEONARDO DA VINCI",
+                        "BRUNELLESCHI",
+                        "DONATELLO"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "VIVALDI",
+                    "imageText": "WHO COMPOSED THE FOUR SEASONS?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "BEETHOVEN",
+                        "BACH",
+                        "MOZART"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "BONAPARTE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "MANDELA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "TESLA",
+                    "imageText": "HE INVENTED THE FIRST ALTERNATING CURRENT (AC) MOTOR",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "PITAGORAS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "ELIZABETH",
+                    "imageText": "WHICH QUEEN IS IT?",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "FREUD",
+                    "imageText": "FATHER OF THE PSYCHOANALYSIS",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "BOLIVAR",
+                    "imageText": "KNOWN AS THE LIBERATOR OF AMERICA",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "EDISON",
+                    "imageText": "I HAVE NOT FAILED, I'VE JUST FOUND 10000 WAYS THAT WONT WORK",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "WALT DISNEY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "SHAKESPEARE",
+                    "imageText": "TO BE OR NOT TO BE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "play"
+        },
+        {
+            "key": 1,
+            "value": "about"
+        },
+        {
+            "key": 2,
+            "value": "quit"
+        },
+        {
+            "key": 3,
+            "value": "back"
+        },
+        {
+            "key": 4,
+            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+        },
+        {
+            "key": 5,
+            "value": "locked"
+        },
+        {
+            "key": 6,
+            "value": "Reveal a letter"
+        },
+        {
+            "key": 7,
+            "value": "Remove letters"
+        },
+        {
+            "key": 8,
+            "value": "Get an answer"
+        },
+        {
+            "key": 9,
+            "value": "Get coins"
+        },
+        {
+            "key": 10,
+            "value": "Watch AD"
+        },
+        {
+            "key": 11,
+            "value": "Buy for real money"
+        },
+        {
+            "key": 12,
+            "value": "continue"
+        },
+        {
+            "key": 13,
+            "value": "main menu"
+        },
+        {
+            "key": 14,
+            "value": "Level complete!"
+        },
+        {
+            "key": 15,
+            "value": "If you liked the game, please rate it on Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 17,
+            "value": "never"
+        },
+        {
+            "key": 18,
+            "value": "later"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "yes"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Looks like you have better progress!"
+        },
+        {
+            "key": 25,
+            "value": "Do you want to load it?"
+        },
+        {
+            "key": 26,
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+        },
+        {
+            "key": 27,
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
+        },
+        {
+            "key": 28,
+            "value": "Confirm"
+        },
+        {
+            "key": 29,
+            "value": "Learn more"
+        },
+        {
+            "key": 30,
+            "value": "Remove wrong answer"
+        },
+        {
+            "key": 31,
+            "value": "Remove two answers"
+        },
+        {
+            "key": 32,
+            "value": "Chanse to mistake"
+        },
+        {
+            "key": 33,
+            "value": "Please, help me to complete the level!"
+        },
+        {
+            "key": 34,
+            "value": "Help from friends"
+        },
+        {
+            "key": 35,
+            "value": "Ask friends"
+        },
+        {
+            "key": 36,
+            "value": "Bet"
+        },
+        {
+            "key": 37,
+            "value": "Use hints if you get stucked!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the letter to clear it. Swipe to clear all letters."
+        },
+        {
+            "key": 39,
+            "value": "Scrape the film to reveal the image!"
+        },
+        {
+            "key": 40,
+            "value": "Tap this to make the image more clear. Requires gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tap the image to make it more clear. Requires gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tap to get usefull info about the task!"
+        },
+        {
+            "key": 45,
+            "value": "How difficult this task is? Make a right bet!"
+        },
+        {
+            "key": 46,
+            "value": "more games"
+        },
+        {
+            "key": 47,
+            "value": "Retry"
+        }
+    ],
+    "subCategories": [
+        {
+            "iconName": "Arts&Sports",
+            "localizedTitle": "Arts/Sports",
+            "subcategories": [
+                "Singers",
+                "Actors&Actresses",
+                "Sport"
+            ]
+        },
+        {
+            "iconName": "World",
+            "localizedTitle": "World",
+            "subcategories": [
+                "Cities",
+                "Animals",
+                "HistoricalFigures"
+            ]
+        }
+    ],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108
+    ]
+}
