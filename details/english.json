@@ -1448,7 +1448,382 @@
                     "cost": 40
                 }
             ]
-        }
+        },
+        {
+            "name": "HistoricalFigures",
+            "localizedName": "Historical Figures",
+            "gameType": 4,
+            "useMixedTypes": true,
+            "orderNumber": 5,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "LINCOLN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "EINSTEIN",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "HITLER",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "BEETHOVEN",
+                    "imageText": "HIS MOST FAMOUS WORK IS THE 5TH SYMPHONY",
+                    "imageDescription": "It was released on December 22, 1808",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "BILL GATES",
+                    "imageText": "",
+                    "imageDescription": "HE IS ONE OF THE MOST RICHEST PEOPLE IN THE WORLD",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "DARWIN",
+                    "imageText": "",
+                    "imageDescription": "HE PUBLISHED ORIGEN OF SPECIES IN NOVEMBER 1859",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "CHE GUEVARA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "COPERNICUS",
+                    "imageText": "ESTABLISHED THAT THE SUN WAS THE CENTER OF OUR SYSTEM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "COLUMBUS",
+                    "imageText": "HE DISCOVERED A NEW CONTINENT IN 1492",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "DIANA OF WALES",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "WASHINGTON",
+                    "imageText": "",
+                    "imageDescription": "FIRST PRESIDENT OF THE UNITED STATES",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "HENRY FORD",
+                    "imageText": "MOUNTED THE FIRST CAR ASSEMBLY LINE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "WRIGHT",
+                    "imageText": "THESE BROTHERS MADE THE FIRST AIRPLANE",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "CLAYTON",
+                        "HUGHES",
+                        "CAMERON"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "HOMER",
+                    "imageText": "WROTE THIS FAMOUS EPIC POEM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "NEWTON",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "GUTENBERG",
+                    "imageText": "CREATED THE FIRST PRINT",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "OLIVETTI",
+                        "SMITH",
+                        "REED"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "KENNEDY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "JULIUS",
+                    "imageText": "FIRST CAESAR TO APPEAR IN A COIN",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "AUGUSTUS",
+                        "TIBERIUS",
+                        "CLAUDIUS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "KARL MARX",
+                    "imageText": "FATHER OF THE COMUNISM",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "DA VINCI",
+                    "imageText": "GENIOUS OF THE RENAISSANCE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "PASTEUR",
+                    "imageText": "THANKS TO HIM IS SAFER TO CONSUME MOST FOOD TODAY",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "TERESA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "GANDHI",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "MARIE CURIE",
+                    "imageText": "FIRST PERSON TO BEING AWARDED 2 NOBEL PRIZES",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "MARILYN MONROE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 40
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "PEACE",
+                    "imageText": "WHICH NOBEL PRIZE DID HE WON?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "LITERATURE",
+                        "CHEMISTRY",
+                        "ECONOMICS"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "MICHELANGELO",
+                    "imageText": "WHO PAINTED THE SISTINE CHAPEL CEILING?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "LEONARDO DA VINCI",
+                        "BRUNELLESCHI",
+                        "DONATELLO"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "VIVALDI",
+                    "imageText": "WHO COMPOSED THE FOUR SEASONS?",
+                    "imageDescription": "",
+                    "wrongAnswers": [
+                        "BEETHOVEN",
+                        "BACH",
+                        "MOZART"
+                    ],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "BONAPARTE",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "MANDELA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "TESLA",
+                    "imageText": "HE INVENTED THE FIRST ALTERNATING CURRENT (AC) MOTOR",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "PITAGORAS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 6,
+                    "cost": 40
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "ELIZABETH",
+                    "imageText": "WHICH QUEEN IS IT?",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 40
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "FREUD",
+                    "imageText": "FATHER OF THE PSYCHOANALYSIS",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "BOLIVAR",
+                    "imageText": "KNOWN AS THE LIBERATOR OF AMERICA",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "EDISON",
+                    "imageText": "I HAVE NOT FAILED, I'VE JUST FOUND 10000 WAYS THAT WONT WORK",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "WALT DISNEY",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 2,
+                    "cost": 40
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "SHAKESPEARE",
+                    "imageText": "TO BE OR NOT TO BE",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 40
+                }
+            ]
+        }      
     ],
     "gameItems": [
         {
